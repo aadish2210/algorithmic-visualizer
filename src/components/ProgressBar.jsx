@@ -11,18 +11,3 @@ const ProgressBar = forwardRef((props, ref) => {
 });
 
 export default ProgressBar
-
-/*
-// ProgressBar.jsx
-
-
-
-
-
-const ProgressBar = forwardRef((props, ref) => {
-  return <div ref={ref} className="progress-bar"></div>;
-});
-
-export default ProgressBar;
-
-*/
